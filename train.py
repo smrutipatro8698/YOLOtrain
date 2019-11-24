@@ -108,8 +108,8 @@ def train():
 
         # load model
         # if opt.transfer:
-        chkpt['model'] = {k: v for k, v in chkpt['model'].items() if model.state_dict()[k].numel() == v.numel()}
-        model.load_state_dict(chkpt['model'], strict=False)
+        # chkpt['model'] = {k: v for k, v in chkpt['model'].items() if model.state_dict()[k].numel() == v.numel()}
+        # model.load_state_dict(chkpt['model'], strict=False)
         # else:
         #    model.load_state_dict(chkpt['model'])
 
