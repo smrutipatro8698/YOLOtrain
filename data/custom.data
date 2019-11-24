@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 classes= 1
 train=data/custom/train.txt
 valid=data/custom/valid.txt
 names=data/custom/classes.names
+=======
+classes= 1
+train=data/train.txt
+valid=data/valid.txt
+names=data/classes.names
+>>>>>>> 80f98858b5abd9d70f656e807a6b85a1925f317e
