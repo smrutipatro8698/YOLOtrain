@@ -1,4 +1,3 @@
-data/custom/images_mix/image150.jpg
 data/custom/images_mix/image151.jpg
 data/custom/images_mix/image152.jpg
 data/custom/images_mix/image153.jpg
