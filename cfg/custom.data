@@ -1,4 +1,4 @@
 classes=1
-train=data/train.txt
-valid=data/valid.txt
+train=data/train1.txt
+valid=data/valid1.txt
 names=data/classes.names
